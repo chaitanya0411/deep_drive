@@ -182,20 +182,23 @@ The best result we got for comma.ai's visualization experiment was with below mo
 
 
 # Results
-You can see the final RMS results on the public/private leaderboard here:
-https://github.com/udacity/self-driving-car/tree/master/challenges/challenge_2
+You can see the final RMS results for Udacity Challenge:
 
-This video shows the results of the model for the test section on Highway 92 and was based on comma.ai's research:
-https://www.youtube.com/watch?v=huwkqWXVax8&t=131s       (The script is epoch_viewer.py)
+<img src="Udacity_Result_Image.png" width="320">
 
-<img src="Round2_Image.png" width="320">
+You can see the results for comma.ai experiment:
 
-Here is the model in the simulator for the behavioral cloning project, without training the model on any simulator data, only real word data, here is the result:
-https://www.youtube.com/watch?v=EcS5JPSH-sI
+<img src="commaai_Result_Image.png" width="320">
 
-<img src="Simulator_Image.png" width="320">
+Video that show the visualization result of model using comma.ai's research :
 
-*Note that I did have to change the sign on the steering angles and scale them due to the wider road/lanes in the simulator. Would be interesting to see if a model only trained in the simulator or on a combination of simulator/real world data could outperform the current model.
+[Deep_Drive Visualization](https://www.youtube.com/watch?v=huwkqWXVax8&t=131s )
 
-# Conclusions
-This was really fun and it sounds like Udacity is trying to go as far as they can with using image based techniques for their open source vehicle and will have similar competitions in the future. Hopefully this repository can serve as a launching point for other students to implement other approaches to improve the performance of this model. I'm personally looking forward to learning more skills in the Udacity course that I can implement.
+<img src="./images/selfsteer.gif">
+
+
+# Conclusion
+In this project we were able to successfully predict the steering angles on two different datasets using convolutional neural networks and were able to understand the inner details of convolutional neural networks along with the way they can be tuned. We also were able to apply techniques like data augmentation for better performance and also visualize the results on images taken from real world.
+
+We had great fun along with learning ton's of new knowledge during the course of this project. We believe that this repository for other people working on self driving car and might help as starting point to implement other ideas to improve the performance of our model. 
+
