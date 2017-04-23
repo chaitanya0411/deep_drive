@@ -194,7 +194,7 @@ Video that show the visualization result of model using comma.ai's research :
 
 [Deep_Drive Visualization](https://www.youtube.com/watch?v=huwkqWXVax8&t=131s )
 
-<img src="./images/selfsteer.gif">
+<img src="./commai/result_images/deepdrive.gif">
 
 
 # Conclusion
