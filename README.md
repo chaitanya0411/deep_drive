@@ -190,6 +190,9 @@ You can see the results for comma.ai experiment:
 
 <img src="./commai/result_images/commaai_Result_Image.png" width="320">
 
+Various observations during testing in comma.ai experiment:
+
+<img src="./commai/result_images/Visual_Result.png">
 
 Video that show the visualization result of model using comma.ai's research :
 
