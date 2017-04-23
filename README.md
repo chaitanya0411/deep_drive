@@ -190,11 +190,15 @@ You can see the results for comma.ai experiment:
 
 <img src="./commai/result_images/commaai_Result_Image.png" width="320">
 
+
 Video that show the visualization result of model using comma.ai's research :
 
 [Deep_Drive Visualization](https://www.youtube.com/watch?v=n8aUxEpOkFw&t=3s)
 
 <img src="./commai/result_images/deepdrive.gif">
+
+Note - Blue line indicates the actual steering angle recorded. Green line
+indicates the predicted steering angle.
 
 
 # Conclusion
