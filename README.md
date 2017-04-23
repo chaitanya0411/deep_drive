@@ -184,11 +184,11 @@ The best result we got for comma.ai's visualization experiment was with below mo
 # Results
 You can see the final RMS results for Udacity Challenge:
 
-<img src="Udacity_Result_Image.png" width="320">
+<img src="./commai/result_images/Udacity_Result_Image.png" width="320">
 
 You can see the results for comma.ai experiment:
 
-<img src="commaai_Result_Image.png" width="320">
+<img src="./commai/result_images/commaai_Result_Image.png" width="320">
 
 Video that show the visualization result of model using comma.ai's research :
 
