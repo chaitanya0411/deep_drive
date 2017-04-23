@@ -192,7 +192,7 @@ You can see the results for comma.ai experiment:
 
 Video that show the visualization result of model using comma.ai's research :
 
-[Deep_Drive Visualization](https://www.youtube.com/watch?v=huwkqWXVax8&t=131s )
+[Deep_Drive Visualization](https://www.youtube.com/watch?v=n8aUxEpOkFw&t=3s)
 
 <img src="./commai/result_images/deepdrive.gif">
 
