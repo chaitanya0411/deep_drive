@@ -200,7 +200,8 @@ Video that show the visualization result of model using comma.ai's research :
 
 <img src="./commai/result_images/deepdrive.gif">
 
-Note : Green line indicates predicated angle while Blue line is actual steering angle.
+Note - Blue line indicates the actual steering angle recorded. Green line
+indicates the predicted steering angle.
 
 
 # Conclusion
