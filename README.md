@@ -4,7 +4,7 @@ Code and Documentation for Self Driving Car steering angle prediction
 For complete details along with our observation please visit [Deep Drive](https://docs.google.com/document/d/1q-JNPBcWBsqSSFshS4rlkUGLJSrG-Yifoly9DRGu9O4/edit?usp=sharing)
 
 ## Goal
-We were motivated to design and implement solution for steerig prediction for self driving cars. Primary goal of the project was to implement CNN based solution which can predict most accurate steering angle against given input image sets. 
+We were motivated to design and implement solution for steering prediction for self driving cars. Primary goal of the project was to implement CNN based solution which can predict most accurate steering angle against given input image sets. 
 We designed and tested two different models, one model which give best result for Udacity Challenge2(lets it call as module 1) and the other model for comma ai virtualization(call it as code module 2). 
 
 In the first part model's success was measured using the root mean square (RMS) error of the predicted steering versus the actual human steering provided in input dataset. 
@@ -50,12 +50,11 @@ Run below command on CPU or GPU to start training the model :
 ```
 python main.py --dataset dataset/ --nb-epoch 50 --resized-image-height 128 --resized-image-width 128
 ```
-After succesfully exection of the main.py RMSE value will be printed on the screen and steering angle per frame id will be generated in predicted_angles.csv.
-Note : If you want please set nb-epoch,batch_size and samples_per_epoch 50 as per requirement or system configration. 
+After succesfully execution of the main.py RMSE value will be printed on the screen and steering angle per frame id will be generated in predicted_angles.csv.
 
 1. Code Execution Step for Module 2 (comma.ai)
 
-1. Obtaing dataset and code following the link : [Comma.ai Research](https://github.com/commaai/research)
+1. Obtain dataset following the link : [Comma.ai Research](https://github.com/commaai/research)
 
 1) Start training data server in the first terminal session
 ```bash
